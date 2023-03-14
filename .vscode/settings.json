@@ -1,0 +1,34 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1f97ff",
+        "titleBar.activeBackground": "#1f97ff",
+        "titleBar.activeForeground": "#FFFBFF"
+    }
+
+
+    "workbench.statusBar.visible": false,
+    "workbench.editor.showIcons": false,
+    "workbench.editor.openPositioning": "left"
+    "editor.wordWrap": "on",
+    "editor.matchBrackets": "always"
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 38,
+    "editor.letterSpacing": 0,
+    "editor.fontFamily": "Fira Code",
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 28,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.lineHeight": 1.5,
+    "terminal.integrated.cursorBlinking": false,
+    "terminal.integrated.cursorStyle":"line"
+    "editor.fontLigatures": false,
+    "disableLigatures.mode" "Cursos",
+    "editor.emptySelectionClipboard": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?"
+    "editor.quickSuggestionsDelay": 0,
+    "editor.formatOnPaste": 
+    "window.zoomLevel": 2,
+    
+
+}
